@@ -1,0 +1,15 @@
+main {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+#app {
+  background: rebeccapurple;
+}
+
+.some-class {
+  font-weight: bold;
+}

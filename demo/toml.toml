@@ -1,0 +1,3 @@
+[parent]
+format = '[$user]($style)'
+disabled = false
