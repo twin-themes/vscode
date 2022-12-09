@@ -1,0 +1,26 @@
+{
+  "name": "twin-theme",
+  "displayName": "Twin Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Twin Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/twin-blue.json"
+      },
+      {
+        "label": "Twin Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/twin-grey.json"
+      }
+    ]
+  }
+}
