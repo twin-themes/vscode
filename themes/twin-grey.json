@@ -1,5 +1,6 @@
 {
   "name": "Twin Grey",
+  "type": "dark",
   "colors": {
     "editor.foreground": "#BCC0CC",
     "editor.background": "#2A2D2C",
