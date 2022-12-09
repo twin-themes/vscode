@@ -43,7 +43,7 @@
 
     // sidebar
     "sideBar.foreground": "#BCC0CC",
-    "sideBar.background": "#172231",
+    "sideBar.background": "#0C1D33",
     "sideBar.border": "#171b24",
     "sideBar.dropBackground": "#171b24",
     "sideBarTitle.foreground": "#BCC0CC",
@@ -66,7 +66,7 @@
     //"checkbox.selectBorder": "",
 
     // panel colors (output, terminal)
-    "panel.background": "#172231",
+    "panel.background": "#0C1D33",
     "panel.border": "#171b24",
     "panel.dropBorder": "#F47B71",
     "panelInput.border": "#171b24",
@@ -81,7 +81,7 @@
 
     // status bar
     "statusBar.foreground": "#BCC0CC",
-    "statusBar.background": "#172231",
+    "statusBar.background": "#0C1D33",
     "statusBar.border": "#171b24",
     "statusBar.debuggingBackground": "#FC9E21",
     "statusBar.debuggingForeground": "#112239",
@@ -106,7 +106,7 @@
 
     // activity bar
     "activityBar.foreground": "#BCC0CC",
-    "activityBar.background": "#172231",
+    "activityBar.background": "#0C1D33",
     "activityBar.border": "#171b24",
     "activityBar.activeBackground": "#A2A19E39",
     "activityBar.activeFocusBorder": "#7A7D7C60",
