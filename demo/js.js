@@ -1,7 +1,7 @@
 // shamely taken from https://github.com/sdras/night-owl-vscode-theme/blob/main/demo/js.js
 
 'use strict'
-class Sale {
+export default class Sale {
   constructor(price) {
     ;[this.decoratorsList, this.price] = [[], price]
   }
@@ -74,3 +74,9 @@ class EditFishForm extends Component {
     })
   }
 }
+
+function fn(params) {
+  console.log(params)
+}
+
+console.log(fn('something'))
