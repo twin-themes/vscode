@@ -1,4 +1,4 @@
-# shamely taken from https://github.com/sdras/night-owl-vscode-theme/blob/main/demo/python.py
+# shamefully taken from https://github.com/sdras/night-owl-vscode-theme/blob/main/demo/python.py
 
 from collections import deque
 

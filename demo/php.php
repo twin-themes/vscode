@@ -1,4 +1,4 @@
-<!-- shamely taken from https://github.com/sdras/night-owl-vscode-theme/blob/main/demo/php.php -->
+<!-- shamefully taken from https://github.com/sdras/night-owl-vscode-theme/blob/main/demo/php.php -->
 
 <?php
 class HelloWorldTest extends PHPUnit_Framework_TestCase

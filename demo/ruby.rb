@@ -1,4 +1,4 @@
-# shamely taken from https://github.com/sdras/night-owl-vscode-theme/blob/main/demo/ruby.rb
+# shamefully taken from https://github.com/sdras/night-owl-vscode-theme/blob/main/demo/ruby.rb
 
 module ExampleModule
   class ExampleClass::ScopeResolution < NewScope::Operator

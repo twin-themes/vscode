@@ -1,4 +1,4 @@
-// shamely taken from https://github.com/sdras/night-owl-vscode-theme/blob/main/demo/js.js
+// shamefully taken from https://github.com/sdras/night-owl-vscode-theme/blob/main/demo/js.js
 
 'use strict'
 export default class Sale {
@@ -36,6 +36,7 @@ console.log(sale.getPrice()) //112.88
 getPrice()
 
 //deeply nested
+ const const = 1
 
 async function asyncCall() {
   var result = await resolveAfter2Seconds()

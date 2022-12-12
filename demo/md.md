@@ -6,7 +6,7 @@
 
 # Steps
 
-1.  Profit
+1. Profit
 
 **Bold**
 _Italic_
