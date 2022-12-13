@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     // base colors
-    "focusBorder": "#BCC0CC80",
+    "focusBorder": "#BCC0CC00",
     "foreground": "#BCC0CC",
     "disabledForeground": "#BCC0CC40",
     "widget.shadow": "#1E232F",
@@ -16,13 +16,16 @@
     // editor colors
     "editor.foreground": "#BCC0CC",
     "editor.background": "#112239",
+    "editor.lineHighlightBackground": "#00C86B11",
+    "editor.hoverHighlightBackground": "#5EB5F439",
+    "editor.lineHighlightBorder": "#00000000",
     "editorLineNumber.foreground": "#FAFDFC40",
     "editorLineNumber.activeForeground": "#FAFDFC",
     "editorCursor.background": "#112239",
-    "editorCursor.foreground": "#ECDD79",
+    "editorCursor.foreground": "#00C86B",
 
     // editor selections
-    "editor.selectionForeground": "#112239",
+    "editor.selectionForeground": "#00C86B",
     "editor.selectionBackground": "#BCC0CC39",
     "editor.inactiveSelectionBackground": "#BCC0CC39",
     "editor.selectionHighlightBackground": "#BCC0CC22",
@@ -31,15 +34,15 @@
 
     // welcome page
     "welcomePage.background": "#112239",
-    "welcomePage.progress.foreground": "#BCC0CC",
+    "welcomePage.progress.foreground": "#00C86B",
     "welcomePage.progress.background": "#112239",
 
     // text (welcome page)
     "textBlockQuote.background": "#BCC0CC50",
     "textBlockQuote.border": "#1E232F",
     "textCodeBlock.background": "#152947",
-    "textLink.activeForeground": "#0D90EE",
-    "textLink.foreground": "#5EB5F4",
+    "textLink.activeForeground": "#00C86B",
+    "textLink.foreground": "#55DA9C",
     "textPreformat.foreground": "#FAFDFC",
     "textSeparator.foreground": "#FAFDFC",
 
@@ -47,8 +50,6 @@
     "editor.findMatchBackground": "#FDBE6B50",
     "editor.findMatchHighlightBackground": "#FDBE6B50",
     "editor.findRangeHighlightBackground": "#FDBE6B50",
-    "editor.hoverHighlightBackground": "#5EB5F439",
-    "editor.lineHighlightBackground": "#BCC0CC22",
 
     "editorLink.activeForeground": "#0D90EE",
 
@@ -138,7 +139,7 @@
     "panel.dropBorder": "#E48981",
     "panelInput.border": "#1E232F",
     "panelTitle.activeForeground": "#FAFDFC",
-    "panelTitle.activeBorder": "#1E232F",
+    "panelTitle.activeBorder": "#55DA9C",
     "panelTitle.inactiveForeground": "#6A6D6C",
     "panelSection.border": "#1E232F",
     "panelSection.dropBackground": "#112239BB",
@@ -181,7 +182,7 @@
     "activityBar.dropBorder": "#E48981",
     "activityBar.inactiveForeground": "#BCC0CC60",
     "activityBarBadge.foreground": "#112239",
-    "activityBarBadge.background": "#FDBE6B",
+    "activityBarBadge.background": "#55DA9C",
 
     // editor groups & tabs
     "editorGroup.border": "#1E232F",
@@ -233,18 +234,18 @@
     "terminal.foreground": "#BCC0CC",
     "terminal.ansiBlack": "#6A6D6C",
     "terminal.ansiBrightBlack": "#6A6D6C",
-    "terminal.ansiRed": "#E48981",
-    "terminal.ansiBrightRed": "#E48981",
-    "terminal.ansiGreen": "#55DA9C",
-    "terminal.ansiBrightGreen": "#55DA9C",
-    "terminal.ansiBrightYellow": "#ECDD79",
-    "terminal.ansiYellow": "#ECDD79",
-    "terminal.ansiBlue": "#5EB5F4",
-    "terminal.ansiBrightBlue": "#5EB5F4",
-    "terminal.ansiMagenta": "#CE8FEF",
-    "terminal.ansiBrightMagenta": "#CE8FEF",
-    "terminal.ansiCyan": "#FDBE6B",
-    "terminal.ansiBrightCyan": "#FDBE6B",
+    "terminal.ansiRed": "#E84030",
+    "terminal.ansiBrightRed": "#E84030",
+    "terminal.ansiGreen": "#00C86B",
+    "terminal.ansiBrightGreen": "#00C86B",
+    "terminal.ansiBrightYellow": "#F4D825",
+    "terminal.ansiYellow": "#F4D825",
+    "terminal.ansiBlue": "#0D90EE",
+    "terminal.ansiBrightBlue": "#0D90EE",
+    "terminal.ansiMagenta": "#A20DF2",
+    "terminal.ansiBrightMagenta": "#A20DF2",
+    "terminal.ansiCyan": "#FC9E21",
+    "terminal.ansiBrightCyan": "#FC9E21",
     "terminal.ansiWhite": "#FAFDFC",
     "terminal.ansiBrightWhite": "#FAFDFC",
     "terminal.selectionBackground": "#BCC0CC39",
@@ -260,7 +261,6 @@
     "notificationCenterHeader.background": "#152947",
     "notificationToast.border": "#1E232F",
     "notifications.background": "#152947",
-    "notifications.border": "#1E232F",
     "notifications.foreground": "#BCC0CC",
     "notificationsErrorIcon.foreground": "#E48981",
     "notificationsWarningIcon.foreground": "#ECDD79",
