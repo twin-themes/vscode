@@ -1,4 +1,4 @@
-// shamefully taken from https://github.com/sdras/night-owl-vscode-theme/blob/main/demo/js.js
+// shamefully modified from https://github.com/sdras/night-owl-vscode-theme/blob/main/demo/js.js
 
 'use strict'
 export default class Sale {
@@ -26,6 +26,13 @@ export default class Sale {
   static fedtax(price) {
     return price + (price * 5) / 100
   }
+
+  static formatName(name, lastName) {
+    return `
+      Name     :  ${name}
+      Lastname :  ${lastName}
+    `
+  }
 }
 
 let sale = new Sale(100)
@@ -34,9 +41,6 @@ sale.decorate('quebec')
 console.log(sale.getPrice()) //112.88
 
 getPrice()
-
-//deeply nested
- const const = 1
 
 async function asyncCall() {
   var result = await resolveAfter2Seconds()
