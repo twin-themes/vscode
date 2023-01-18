@@ -2,5 +2,7 @@
   "object": {
     "property": true
   },
-  "array": ["first", 2]
+  "array": ["first", 2],
+  "string": "str",
+  "num": 112239
 }

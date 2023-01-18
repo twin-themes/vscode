@@ -581,60 +581,59 @@
     {
       "scope": [
         "entity.name",
-        "entity.name.tag.html",
         "entity.name.tag.css",
         "entity.other.inherited-class",
         "support.constant.property-value.css",
         "punctuation.definition.template-expression"
       ],
       "settings": {
-        "foreground": "#25D483"
+        "foreground": "#F4BF5D"
       }
     },
     {
       "scope": [
+        "meta.brace",
         "punctuation",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
         "punctuation.definition.tag.html",
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
-        "punctuation.section.embedded"
+        "punctuation.section.embedded",
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#25D48370"
+        "foreground": "#71BAEF"
       }
     },
     {
-      "scope": ["text.html.derivative"],
+      "scope": ["text.html.derivative", "meta.object-literal.key"],
       "settings": {
         "foreground": "#DADDDC"
       }
     },
     {
       "scope": [
+        "source.json meta.structure.dictionary.json support.type.property-name.json",
         "source.css support.type.property-name",
         "source.sass support.type.property-name",
         "source.scss support.type.property-name",
         "source.less support.type.property-name",
         "source.stylus support.type.property-name",
         "source.postcss support.type.property-name",
-        "storage.type"
+        "entity.name.tag.html",
+        "keyword.control",
+        "storage.type",
+        "storage.modifier"
       ],
       "settings": {
-        "foreground": "#E47267"
-      }
-    },
-    {
-      "scope": ["support.constant"],
-      "settings": {
-        "foreground": "#71BAEF"
+        "foreground": "#25D483"
       }
     },
     {
       "scope": ["support.constant.property-value.css"],
       "settings": {
-        "foreground": "#25D483"
+        "foreground": "#C181E4"
       }
     },
     {
@@ -645,6 +644,7 @@
     },
     {
       "scope": [
+        "support.constant",
         "entity.name.function",
         "entity.other.attribute-name",
         "entity.other.attribute-name.class",
@@ -656,7 +656,7 @@
       }
     },
     {
-      "scope": ["string", "constant.language"],
+      "scope": ["string", "constant.language", "keyword.operator.assignment"],
       "settings": {
         "foreground": "#F4BF5D"
       }
@@ -665,12 +665,6 @@
       "scope": ["string.quoted"],
       "settings": {
         "foreground": "#E8DA7D"
-      }
-    },
-    {
-      "scope": ["keyword.operator.assignment"],
-      "settings": {
-        "foreground": "#F4BF5D"
       }
     },
     {
@@ -686,29 +680,30 @@
       }
     },
     {
-      "scope": ["constant.numeric", "constant.character.numeric"],
+      "scope": [
+        "constant.numeric",
+        "constant.character.numeric",
+        "support.function",
+        "keyword.other.special-method",
+        "punctuation.accessor"
+      ],
       "settings": {
         "foreground": "#E47267"
       }
     },
     {
-      "scope": ["meta.block variable.other", "meta.object-literal.key"],
+      "scope": ["meta.block variable.other"],
       "settings": {
         "foreground": "#71BAEF"
       }
     },
     {
-      "scope": ["keyword.control", "storage.modifier"],
+      "scope": ["support.class"],
       "settings": {
-        "foreground": "#E47267"
+        "foreground": "#C181E4"
       }
     },
-    {
-      "scope": ["punctuation.accessor"],
-      "settings": {
-        "foreground": "#E47267"
-      }
-    },
+
     {
       "scope": ["constant.other.color"],
       "settings": {
@@ -740,12 +735,7 @@
       }
     },
     {
-      "scope": [
-        "meta.function-call",
-        "variable.function",
-        "support.function",
-        "keyword.other.special-method"
-      ],
+      "scope": ["meta.function-call", "variable.function"],
       "settings": {
         "foreground": "#FFFFFF"
       }
@@ -777,7 +767,6 @@
     {
       "scope": [
         "support.type",
-        "support.class",
         "support.other.namespace.use.php",
         "meta.use.php",
         "support.other.namespace.php",
@@ -870,20 +859,6 @@
       "settings": {
         "foreground": "#FFFFFF",
         "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": ["source.json meta.structure.dictionary.json support.type.property-name.json"],
-      "settings": {
-        "foreground": "#FFFFFF"
-      }
-    },
-    {
-      "scope": [
-        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
-      ],
-      "settings": {
-        "foreground": "#FFFFFF"
       }
     },
     {

@@ -59,14 +59,14 @@ for (let i = 0; i < 10; i++) {
 if (true) {
 }
 
-while (true) {}
-
 switch (2) {
-  case 2:
+  case '2':
     break
   default:
     break
 }
+
+while (true) {}
 
 class EditFishForm extends Component {
   static propTypes = {
