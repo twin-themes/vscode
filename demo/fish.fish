@@ -1,3 +1,7 @@
+#!/usr/bin/env fish
+
+echo -e "Twin Theme"
+
 source ~/somefile.txt
 
 set -U theme Twin
@@ -10,3 +14,9 @@ function name
         echo -e $item
     end
 end
+
+git clone https://somegit.com/somegit.git ~/somegit
+cd ~/somegit
+command -y
+
+curl -s https://example.com/example.sh | sh

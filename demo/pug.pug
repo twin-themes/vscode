@@ -8,3 +8,8 @@ html(lang="en")
   body
     h1= prop.nested
     h2 Hello #{you}
+
+    each post in collections.posts.reverse()
+      div
+        a(href=`/blog/${post.data.id}-${post.data.slug}/` class='navbar-link post-title')= post.data.title
+        p= post.data.dateor

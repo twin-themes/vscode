@@ -84,4 +84,6 @@ function fn(params) {
   console.log(params)
 }
 
+const fn = (a, b) => a + b
+
 console.log(fn('something'))
