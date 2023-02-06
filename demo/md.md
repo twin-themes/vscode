@@ -4,9 +4,13 @@
 
 ![Preview](img.png)
 
+[example.com](https://example.com)
+
 # Steps
 
-1. Profit
+1. Create theme
+2. ???
+3. Profit
 
 **Bold**
 _Italic_
