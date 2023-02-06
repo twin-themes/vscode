@@ -480,6 +480,11 @@
     "window.activeBorder": "#BCC0CC",
     "window.inactiveBorder": "#BCC0CC50"
   },
+
+  //////////////////////////////////////////////
+  //              SYNTAX COLORS               //
+  //////////////////////////////////////////////
+
   "tokenColors": [
     {
       "name": "Plain text",
@@ -598,7 +603,7 @@
       }
     },
     {
-      "scope": ["keyword.control.conditional", "keyword.control.trycatch"],
+      "scope": ["keyword.control.conditional", "keyword.control.rust", "keyword.control.trycatch"],
       "settings": {
         "foreground": "#E47267"
       }
@@ -639,7 +644,7 @@
         "string.other.link",
         "entity.name.command.shell",
         "storage.type.function.arrow.js",
-        "keyword.operator.arithmetic"
+        "keyword.operator"
       ],
       "settings": {
         "foreground": "#E47267"
@@ -783,7 +788,7 @@
       }
     },
     {
-      "scope": ["constant.language", "keyword.operator.assignment"],
+      "scope": ["constant.language"],
       "settings": {
         "foreground": "#F4BF5D"
       }
