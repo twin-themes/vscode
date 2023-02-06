@@ -4,7 +4,7 @@
   "colors": {
     // base colors
     "focusBorder": "#BCC0CC00",
-    "foreground": "#FFFFFF",
+    "foreground": "#BCC0CC",
     "disabledForeground": "#BCC0CC40",
     "widget.shadow": "#1E232F",
     "selection.background": "#4A4D4C",
@@ -210,7 +210,7 @@
     "commandCenter.foreground": "#BCC0CC",
     "commandCenter.background": "#152947",
     "commandCenter.activeForeground": "#BCC0CC",
-    "commandCenter.activeBackground": "#ffffff14",
+    "commandCenter.activeBackground": "#BCC0CC14",
     "commandCenter.border": "#1E232F",
     "commandCenter.inactiveForeground": "#cccccc00",
     "commandCenter.inactiveBorder": "#cccccc00",
