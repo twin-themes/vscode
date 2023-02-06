@@ -17,9 +17,19 @@
         "path": "./themes/twin-blue.json"
       },
       {
+        "label": "Twin Blue Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/twin-blue-flat.json"
+      },
+      {
         "label": "Twin Grey",
         "uiTheme": "vs-dark",
         "path": "./themes/twin-grey.json"
+      },
+      {
+        "label": "Twin Grey Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/twin-grey-flat.json"
       }
     ]
   }
