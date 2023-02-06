@@ -17,4 +17,5 @@ a:hover {
 
 .some-class {
   font-weight: bold;
+  border: 1px solid #112239;
 }
