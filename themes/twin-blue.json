@@ -465,8 +465,8 @@
     "titleBar.border": "#1E232F",
 
     // toolbar
-    "toolbar.hoverBackground": "#152947",
-    "toolbar.hoverOutline": "#14B369",
+    "toolbar.hoverBackground": "#FFFFFF39",
+    "toolbar.hoverOutline": null,
     "toolbar.activeBackground": null,
 
     // settings (Preferences: Open Settings (UI))
