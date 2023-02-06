@@ -11,7 +11,8 @@
     "descriptionForeground": "#BCC0CC",
     "errorForeground": "#E84030",
     "icon.foreground": "#BCC0CC",
-    "sash.hoverBorder": "#DBEC79",
+    "sash.hoverBorder": "#25D483",
+    "scrollbar.shadow": "#0000",
 
     // editor colors
     "editor.foreground": "#BCC0CC",
