@@ -788,6 +788,12 @@
       }
     },
     {
+      "scope": ["source.go"],
+      "settings": {
+        "foreground": "#25D483"
+      }
+    },
+    {
       "scope": ["constant.language"],
       "settings": {
         "foreground": "#F4BF5D"
