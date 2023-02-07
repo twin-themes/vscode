@@ -11,22 +11,22 @@
     "descriptionForeground": "#BCC0CC",
     "errorForeground": "#E47267",
     "icon.foreground": "#BCC0CC",
-    "sash.hoverBorder": "#E3EDAB",
+    "sash.hoverBorder": "#D5AFE9",
     "scrollbar.shadow": "#00000000",
 
     // editor colors
     "editor.foreground": "#BCC0CC",
     "editor.background": "#2A2D2C",
-    "editor.lineHighlightBackground": "#E3EDAB11",
+    "editor.lineHighlightBackground": "#D5AFE911",
     "editor.hoverHighlightBackground": "#A4D0EF39",
     "editor.lineHighlightBorder": "#00000000",
     "editorLineNumber.foreground": "#FAFDFC40",
     "editorLineNumber.activeForeground": "#FAFDFC",
     "editorCursor.background": "#2A2D2C",
-    "editorCursor.foreground": "#E3EDAB",
+    "editorCursor.foreground": "#D5AFE9",
 
     // editor selections
-    "editor.selectionForeground": "#E3EDAB",
+    "editor.selectionForeground": "#D5AFE9",
     "editor.selectionBackground": "#BCC0CC39",
     "editor.inactiveSelectionBackground": "#BCC0CC39",
     "editor.selectionHighlightBackground": "#BCC0CC22",
@@ -35,7 +35,7 @@
 
     // welcome page
     "welcomePage.background": "#2A2D2C",
-    "welcomePage.progress.foreground": "#E3EDAB",
+    "welcomePage.progress.foreground": "#D5AFE9",
     "welcomePage.progress.background": "#2A2D2C",
 
     // text (welcome page)
@@ -43,7 +43,7 @@
     "textBlockQuote.border": "#2A2D2C",
     "textCodeBlock.background": "#2A2D2C",
     "textLink.activeForeground": "#DBEC79",
-    "textLink.foreground": "#E3EDAB",
+    "textLink.foreground": "#D5AFE9",
     "textPreformat.foreground": "#FAFDFC",
     "textSeparator.foreground": "#FAFDFC",
 
@@ -68,7 +68,7 @@
     "editorCodeLens.foreground": "#A4D0EF",
 
     // bracket pairs
-    "editorBracketMatch.background": "#E3EDAB39",
+    "editorBracketMatch.background": "#D5AFE939",
     "editorBracketMatch.border": null,
 
     // gutter
@@ -125,7 +125,7 @@
 
     // button control (open folder button, etc when no project is open)
     "button.foreground": "#2A2D2C",
-    "button.background": "#E3EDAB",
+    "button.background": "#D5AFE9",
     "button.hoverBackground": "#DBEC79",
     "button.border": null,
     "checkbox.background": "#2A2D2C",
@@ -140,7 +140,7 @@
     "panel.dropBorder": "#E69F99",
     "panelInput.border": "#2A2D2C",
     "panelTitle.activeForeground": "#FAFDFC",
-    "panelTitle.activeBorder": "#E3EDAB",
+    "panelTitle.activeBorder": "#D5AFE9",
     "panelTitle.inactiveForeground": "#8A8D8C",
     "panelSection.border": "#2A2D2C",
     "panelSection.dropBackground": "#2A2D2CBB",
@@ -183,7 +183,7 @@
     "activityBar.dropBorder": "#E69F99",
     "activityBar.inactiveForeground": "#BCC0CC60",
     "activityBarBadge.foreground": "#2A2D2C",
-    "activityBarBadge.background": "#E3EDAB",
+    "activityBarBadge.background": "#D5AFE9",
 
     // editor groups & tabs
     "editorGroup.border": "#2A2D2C",
@@ -198,7 +198,7 @@
     "tab.unfocusedActiveBackground": "#2A2D2C",
     "tab.activeForeground": "#BCC0CC",
     "tab.border": "#2A2D2C",
-    "tab.activeBorderTop": "#E3EDAB",
+    "tab.activeBorderTop": "#D5AFE9",
     "tab.unfocusedActiveBorder": "#2A2D2C",
     "tab.inactiveBackground": "#2A2D2C",
     "tab.inactiveForeground": "#BCC0CC80",
@@ -250,9 +250,9 @@
     "terminal.ansiWhite": "#DADDDC",
     "terminal.ansiBrightWhite": "#FAFDFC",
     "terminal.selectionBackground": "#BCC0CC39",
-    "terminal.findMatchBackground": "#E3EDAB39",
-    "terminal.findMatchHighlightBackground": "#E3EDAB22",
-    "terminalCursor.foreground": "#E3EDAB",
+    "terminal.findMatchBackground": "#D5AFE939",
+    "terminal.findMatchHighlightBackground": "#D5AFE922",
+    "terminalCursor.foreground": "#D5AFE9",
     "terminalCursor.background": "#2A2D2C",
     "terminal.dropBackground": "#2A2D2CBB",
 
@@ -270,7 +270,7 @@
 
     // extensions view
     "extensionButton.foreground": "#2A2D2C",
-    "extensionButton.background": "#E3EDAB",
+    "extensionButton.background": "#D5AFE9",
     "extensionIcon.preReleaseForeground": "#E69F99",
     "extensionIcon.sponsorForeground": "#D5AFE9",
     "extensionIcon.starForeground": "#E3EDAB",
@@ -470,7 +470,7 @@
     "toolbar.activeBackground": null,
 
     // settings (Preferences: Open Settings (UI))
-    "settings.modifiedItemIndicator": "#E3EDAB",
+    "settings.modifiedItemIndicator": "#D5AFE9",
 
     // unknown/undocumented
     // "interactive.activeCodeBorder": "#3794ff",
@@ -533,7 +533,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#E3EDAB60"
+        "foreground": "#D5AFE960"
       }
     },
     {
