@@ -1,7 +1,7 @@
 {
   "name": "twin-vsc",
   "displayName": "Twin Themes",
-  "publisher": "twin-themes",
+  "publisher": "Twin Themes",
   "description": "A pair of sibling dark themes for VSCode & VSCodium.",
   "version": "0.0.1",
   "license": "MIT",
