@@ -14,22 +14,22 @@
       {
         "label": "Twin Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/twin-black.json"
+        "path": "./themes/black.json"
       },
       {
         "label": "Twin Black Flat",
         "uiTheme": "vs-dark",
-        "path": "./themes/twin-black-flat.json"
+        "path": "./themes/black-flat.json"
       },
       {
         "label": "Twin Blue",
         "uiTheme": "vs-dark",
-        "path": "./themes/twin-blue.json"
+        "path": "./themes/blue.json"
       },
       {
         "label": "Twin Blue Flat",
         "uiTheme": "vs-dark",
-        "path": "./themes/twin-blue-flat.json"
+        "path": "./themes/blue-flat.json"
       }
     ]
   }
