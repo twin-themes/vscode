@@ -12,6 +12,16 @@
   "contributes": {
     "themes": [
       {
+        "label": "Twin Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/twin-black.json"
+      },
+      {
+        "label": "Twin Black Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/twin-black-flat.json"
+      },
+      {
         "label": "Twin Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/twin-blue.json"
@@ -20,16 +30,6 @@
         "label": "Twin Blue Flat",
         "uiTheme": "vs-dark",
         "path": "./themes/twin-blue-flat.json"
-      },
-      {
-        "label": "Twin Grey",
-        "uiTheme": "vs-dark",
-        "path": "./themes/twin-grey.json"
-      },
-      {
-        "label": "Twin Grey Flat",
-        "uiTheme": "vs-dark",
-        "path": "./themes/twin-grey-flat.json"
       }
     ]
   }
