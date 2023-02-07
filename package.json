@@ -3,9 +3,13 @@
   "displayName": "Twin Themes",
   "publisher": "twin-themes",
   "description": "A pair of sibling dark themes for VSCode & VSCodium.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "icon": "images/twin.png",
+  "galleryBanner": {
+    "color": "#1E232F",
+    "theme": "dark"
+  },
   "author": {
     "name": "Andrés Del Carpio",
     "email": "adc@adc.pe"
