@@ -1,13 +1,34 @@
 {
-  "name": "twin-theme",
-  "displayName": "Twin Theme",
-  "description": "",
+  "name": "twin-vsc",
+  "displayName": "Twin Themes",
+  "publisher": "twin-themes",
+  "description": "A pair of sibling dark themes for VSCode & VSCodium.",
   "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Andrés Del Carpio",
+    "email": "adc@adc.pe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twin-themes/vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/twin-themes/vscode/issues",
+    "email": "adc@adc.pe"
+  },
+  "homepage": "https://github.com/twin-themes/vscode/blob/master/README.md",
   "engines": {
     "vscode": "^1.74.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "twin",
+    "dark",
+    "theme",
+    "color-theme"
   ],
   "contributes": {
     "themes": [
