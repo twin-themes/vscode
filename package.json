@@ -5,6 +5,7 @@
   "description": "A pair of sibling dark themes for VSCode & VSCodium.",
   "version": "1.0.0",
   "license": "MIT",
+  "icon": "images/twin.png",
   "author": {
     "name": "Andrés Del Carpio",
     "email": "adc@adc.pe"
