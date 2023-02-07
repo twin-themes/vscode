@@ -4,6 +4,7 @@
 - [x] conf
 - [x] css
 - [x] fish
+- [x] go
 - [x] html
 - [x] js
 - [x] json
@@ -12,7 +13,10 @@
 - [x] pug
 - [x] py
 - [x] react
+- [x] rust
 - [x] rb
+- [x] sass
+- [x] stylus
 - [x] toml
 - [x] vue
 - [x] yml
