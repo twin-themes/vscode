@@ -6,13 +6,13 @@
     "focusBorder": "#BCC0CC00",
     "foreground": "#BCC0CC",
     "disabledForeground": "#BCC0CC40",
-    "widget.shadow": "#1E232F",
+    "widget.shadow": "#00000000",
     "selection.background": "#4A4D4C",
     "descriptionForeground": "#BCC0CC",
     "errorForeground": "#E84030",
     "icon.foreground": "#BCC0CC",
     "sash.hoverBorder": "#25D483",
-    "scrollbar.shadow": "#0000",
+    "scrollbar.shadow": "#00000000",
 
     // editor colors
     "editor.foreground": "#BCC0CC",
@@ -588,7 +588,7 @@
     {
       "scope": ["variable"],
       "settings": {
-        "foreground": "#F4BF5D"
+        "foreground": "#71BAEF"
       }
     },
     {

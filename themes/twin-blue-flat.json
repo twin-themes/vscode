@@ -6,7 +6,7 @@
     "focusBorder": "#BCC0CC00",
     "foreground": "#BCC0CC",
     "disabledForeground": "#BCC0CC40",
-    "widget.shadow": "#1E232F",
+    "widget.shadow": "#00000000",
     "selection.background": "#4A4D4C",
     "descriptionForeground": "#BCC0CC",
     "errorForeground": "#E84030",
@@ -136,7 +136,7 @@
 
     // panel colors (output, terminal, etc)
     "panel.background": "#112239",
-    "panel.border": "#112239",
+    "panel.border": "#BCC0CC22",
     "panel.dropBorder": "#E47267",
     "panelInput.border": "#112239",
     "panelTitle.activeForeground": "#DADDDC",
