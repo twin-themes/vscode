@@ -4,9 +4,13 @@
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.0.2]
+
+- Fixed hover colors on button backgrounds and link foregrounds on Black and Black Flat to purple. They were previously yellow.
+
 ## [1.0.1]
 
-- Added gallery customization
+- Added gallery customization.
 
 ## [1.0.0]
 
