@@ -7,6 +7,7 @@
 ## [1.0.3]
 
 - Change color of comments on Black and Black flat to red. Previous color was purple.
+- Change color of backgrounds of menu selections on Black flat and Blue Flat to #BCC0CC39. It was previously the color of background and it didn't make it clear where the mouse was in the menu.
 
 ## [1.0.2]
 

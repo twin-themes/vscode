@@ -209,23 +209,23 @@
 
     // command center
     "commandCenter.foreground": "#BCC0CC",
-    "commandCenter.background": "#112239",
+    "commandCenter.background": "#152947",
     "commandCenter.activeForeground": "#BCC0CC",
     "commandCenter.activeBackground": "#BCC0CC14",
     "commandCenter.border": "#112239",
-    "commandCenter.inactiveForeground": "#cccccc00",
-    "commandCenter.inactiveBorder": "#cccccc00",
-    "commandCenter.activeBorder": "#cccccc00",
+    "commandCenter.inactiveForeground": "#00000000",
+    "commandCenter.inactiveBorder": "#00000000",
+    "commandCenter.activeBorder": "#00000000",
 
     // menubar
     "menu.foreground": "#BCC0CC",
     "menu.background": "#112239",
     "menu.border": "#112239",
-    // "menu.selectionBackground": "#04395e",
+    "menu.selectionBackground": "#BCC0CC60",
     // "menu.selectionForeground": "#ffffff",
     // "menu.separatorBackground": "#606060",
     // "menubar.selectionForeground": "#cccccc",
-    // "menubar.selectionBackground": "#5a5d5e50",
+    "menubar.selectionBackground": "#BCC0CC60",
     "menu.selectionBorder": "#00000000",
     "menubar.selectionBorder": "#00000000",
 
@@ -277,8 +277,9 @@
     "extensionIcon.verifiedForeground": "#F4BF5D",
 
     // breadcrumbs
-    "breadcrumb.foreground": "#BCC0CC",
+    "breadcrumb.foreground": "#BCC0CC85",
     "breadcrumb.background": "#112239",
+    "breadcrumb.focusForeground": "#BCC0CC",
     "breadcrumb.activeSelectionForeground": "#DADDDC",
     "breadcrumbPicker.background": "#112239",
 
@@ -351,7 +352,7 @@
 
     // lists and trees (file explorer)
     "list.activeSelectionForeground": "#BCC0CC",
-    "list.activeSelectionBackground": "#112239",
+    "list.activeSelectionBackground": "#BCC0CC39",
     "list.dropBackground": "#112239BB",
     "list.focusBackground": "#BCC0CC39",
     "list.highlightForeground": "#71BAEF",
@@ -373,11 +374,11 @@
     "merge.currentContentBackground": "#25D48333",
     "merge.incomingHeaderBackground": "#71BAEF80",
     "merge.incomingContentBackground": "#71BAEF33",
-    "merge.commonHeaderBackground": "#11223980",
-    "merge.commonContentBackground": "#11223933",
+    "merge.commonHeaderBackground": "#15294780",
+    "merge.commonContentBackground": "#15294733",
     "editorOverviewRuler.currentContentForeground": "#25D48380",
     "editorOverviewRuler.incomingContentForeground": "#71BAEF80",
-    "editorOverviewRuler.commonContentForeground": "#11223966",
+    "editorOverviewRuler.commonContentForeground": "#15294766",
     "mergeEditor.change.background": "#25D48333",
     "mergeEditor.change.word.background": "#25D48333",
     "mergeEditor.conflict.unhandledUnfocused.border": "#F4BF5D7A",
@@ -465,7 +466,7 @@
     "titleBar.border": "#112239",
 
     // toolbar
-    "toolbar.hoverBackground": "#FFFFFF39",
+    "toolbar.hoverBackground": "#BCC0CC39",
     "toolbar.hoverOutline": null,
     "toolbar.activeBackground": null,
 

@@ -213,19 +213,19 @@
     "commandCenter.activeForeground": "#BCC0CC",
     "commandCenter.activeBackground": "#BCC0CC14",
     "commandCenter.border": "#1E232F",
-    "commandCenter.inactiveForeground": "#cccccc00",
-    "commandCenter.inactiveBorder": "#cccccc00",
-    "commandCenter.activeBorder": "#cccccc00",
+    "commandCenter.inactiveForeground": "#00000000",
+    "commandCenter.inactiveBorder": "#00000000",
+    "commandCenter.activeBorder": "#00000000",
 
     // menubar
     "menu.foreground": "#BCC0CC",
     "menu.background": "#232524",
     "menu.border": "#1E232F",
-    // "menu.selectionBackground": "#04395e",
+    "menu.selectionBackground": "#BCC0CC60",
     // "menu.selectionForeground": "#ffffff",
     // "menu.separatorBackground": "#606060",
     // "menubar.selectionForeground": "#cccccc",
-    // "menubar.selectionBackground": "#5a5d5e50",
+    "menubar.selectionBackground": "#BCC0CC60",
     "menu.selectionBorder": "#00000000",
     "menubar.selectionBorder": "#00000000",
 
@@ -277,8 +277,9 @@
     "extensionIcon.verifiedForeground": "#A4D0EF",
 
     // breadcrumbs
-    "breadcrumb.foreground": "#BCC0CC",
+    "breadcrumb.foreground": "#BCC0CC85",
     "breadcrumb.background": "#2A2D2C",
+    "breadcrumb.focusForeground": "#BCC0CC",
     "breadcrumb.activeSelectionForeground": "#FAFDFC",
     "breadcrumbPicker.background": "#232524",
 
@@ -351,7 +352,7 @@
 
     // lists and trees (file explorer)
     "list.activeSelectionForeground": "#BCC0CC",
-    "list.activeSelectionBackground": "#313534",
+    "list.activeSelectionBackground": "#BCC0CC39",
     "list.dropBackground": "#2A2D2CBB",
     "list.focusBackground": "#BCC0CC39",
     "list.highlightForeground": "#A4D0EF",
@@ -465,7 +466,7 @@
     "titleBar.border": "#1E232F",
 
     // toolbar
-    "toolbar.hoverBackground": "#FFFFFF39",
+    "toolbar.hoverBackground": "#BCC0CC39",
     "toolbar.hoverOutline": null,
     "toolbar.activeBackground": null,
 
