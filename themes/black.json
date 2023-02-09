@@ -520,7 +520,7 @@
       }
     },
     {
-      "scope": ["string.quoted"],
+      "scope": ["string", "string.quoted"],
       "settings": {
         "foreground": "#F1D093"
       }
@@ -541,12 +541,6 @@
       "scope": ["constant.numeric"],
       "settings": {
         "foreground": "#58D59B"
-      }
-    },
-    {
-      "scope": ["string"],
-      "settings": {
-        "foreground": "#A4D0EF"
       }
     },
     {
@@ -600,6 +594,18 @@
     },
     {
       "scope": ["meta.block variable.other"],
+      "settings": {
+        "foreground": "#E69F99"
+      }
+    },
+    {
+      "scope": ["variable.other.readwrite"],
+      "settings": {
+        "foreground": "#DADDDC"
+      }
+    },
+    {
+      "scope": ["variable.other.readwrite.class", "variable.other.readwrite.instance"],
       "settings": {
         "foreground": "#E69F99"
       }

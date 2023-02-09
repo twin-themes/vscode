@@ -4,6 +4,10 @@
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.0.4] 2023-xx-xx
+
+- Change color of function parameters and variable assignments in JS to white for better contrast
+
 ## [1.0.3] 2023-02-08
 
 - Change color of comments on Black and Black flat to red. Previous color was purple.
