@@ -409,7 +409,7 @@
     "editorWidget.background": "#313534",
     "editorWidget.resizeBorder": "#BCC0CC70",
     "editorWidget.border": "#2A2D2C",
-    "editorSuggestWidget.background": "#2A2D2C",
+    "editorSuggestWidget.background": "#313534",
     "editorSuggestWidget.border": "#2A2D2C",
     "editorSuggestWidget.foreground": "#BCC0CC",
     "editorSuggestWidget.focusHighlightForeground": "#F1D093",
@@ -417,9 +417,9 @@
     "editorSuggestWidget.selectedBackground": "#2A2D2C",
     "editorSuggestWidget.selectedForeground": "#BCC0CC",
     "editorHoverWidget.foreground": "#BCC0CC",
-    "editorHoverWidget.background": "#2A2D2C",
+    "editorHoverWidget.background": "#313534",
     "editorHoverWidget.border": "#2A2D2C",
-    "debugExceptionWidget.background": "#2A2D2C",
+    "debugExceptionWidget.background": "#313534",
     "debugExceptionWidget.border": "#2A2D2C",
 
     // Go to Next Problem (Error, Warning, Info) command
