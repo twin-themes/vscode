@@ -581,27 +581,15 @@
       }
     },
     {
-      "scope": ["variable"],
+      "scope": ["variable", "meta.block variable.other", "variable.other.readwrite"],
       "settings": {
-        "foreground": "#F4BF5D"
+        "foreground": "#BABDBC"
       }
     },
     {
       "scope": ["variable.language"],
       "settings": {
         "foreground": "#25D483"
-      }
-    },
-    {
-      "scope": ["meta.block variable.other"],
-      "settings": {
-        "foreground": "#71BAEF"
-      }
-    },
-    {
-      "scope": ["variable.other.readwrite"],
-      "settings": {
-        "foreground": "#BABDBC"
       }
     },
     {
