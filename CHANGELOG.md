@@ -4,9 +4,11 @@
 
 <!-- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
-## [1.0.4] 2023-xx-xx
+## [1.0.4] 2023-02-13
 
 - Change color of function parameters and variable assignments in JS to white for better contrast
+- Change color of variables to white
+- Change color of highlight selection of code suggestions on Flat variants
 
 ## [1.0.3] 2023-02-08
 

@@ -3,7 +3,7 @@
   "displayName": "Twin Themes",
   "publisher": "twin-themes",
   "description": "A pair of sibling dark themes for VSCode & VSCodium.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "icon": "images/twin.png",
   "galleryBanner": {
